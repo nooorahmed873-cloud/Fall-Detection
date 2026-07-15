@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project outputs
+fall_screenshots/
+output.mp4
+output_fall_detection.mp4
+final_output_with_soundTEMP_MPY_wvf_snd.mp4
+
+# Media files
+*.mp4
+*.mp3
+*.mpeg
