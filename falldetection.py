@@ -75,8 +75,8 @@ class AlertManager:
                  sound_file=None,
                  enable_sound=True,
                  enable_telegram=True,
-                 bot_token="",
-                 chat_id=""):
+                 bot_token="YOUR_BOT_TOKEN",
+                 chat_id="YOUR_CHAT_ID"):
 
         self.sound_file = sound_file
         self.enable_sound = enable_sound
