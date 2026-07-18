@@ -36,17 +36,6 @@ https://github.com/user-attachments/assets/6d314d7f-3680-46a9-96c5-96de7324af63
 - Requests
 - Tkinter
 
-## Project Structure
-
-```text
-Fall-Detection/
-│── falldetection.py
-│── requirements.txt
-│── README.md
-│── .gitignore
-│── fall_screenshots/
-```
-
 ## Installation
 
 ```bash
